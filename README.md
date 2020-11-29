@@ -1,5 +1,5 @@
 # Gaussian Process applied to toy dataset
-Tutorial of Gaussian process, by GPy wrapped by Python.\
+Tutorial of Gaussian process, by GPy wrapped by Python.
 
 # Datasets
 Toy dataset from a model function with a random noise.
