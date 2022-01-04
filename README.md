@@ -1,3 +1,5 @@
+[![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/caron14/GaussianProcess-ToyDataset/blob/master/path/to/notebook.ipynb)
+
 # Gaussian Process applied to toy dataset
 Tutorial of Gaussian process, by GPy wrapped by Python.
 
